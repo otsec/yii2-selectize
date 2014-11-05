@@ -1,0 +1,25 @@
+{
+	"name": "otsec/yii2-selectize",
+    "keywords": ["yii2", "widget", "selectize"],
+    "type": "yii2-extension",
+    "minimum-stability": "dev",
+    "support": {
+        "issues": "https://github.com/otsec/yii2-selectize/issues?state=open",
+        "source": "https://github.com/otsec/yii2-selectize"
+    },
+    "authors": [
+        {
+            "name": "Artem Belov",
+            "email": "razor2909@gmail.com"
+        }
+    ],
+	"require": {
+        "yiisoft/yii2": "*",
+        "bower-asset/selectize": ">=0.11.2"
+	},
+    "autoload": {
+        "psr-4": {
+            "otsec\\yii2\\selectize\\": "/"
+        }
+    }
+}
