@@ -1,5 +1,5 @@
 {
-	"name": "otsec/yii2-selectize",
+    "name": "otsec/yii2-selectize",
     "keywords": ["yii2", "widget", "selectize"],
     "type": "yii2-extension",
     "minimum-stability": "dev",
@@ -13,10 +13,10 @@
             "email": "razor2909@gmail.com"
         }
     ],
-	"require": {
+    "require": {
         "yiisoft/yii2": "*",
         "bower-asset/selectize": ">=0.11.2"
-	},
+    },
     "autoload": {
         "psr-4": {
             "otsec\\yii2\\selectize\\": "/"
